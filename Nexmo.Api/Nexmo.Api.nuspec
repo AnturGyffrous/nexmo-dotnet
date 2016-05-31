@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Nexmo.Csharp.Client</id>
+    <id>IDL.Nexmo.Client</id>
     <version>1.0.0</version>
     <title>Nexmo API Client</title>
     <authors>Nexmo</authors>
@@ -20,9 +20,4 @@
       </group>
     </dependencies>
   </metadata>
-  <files>
-    <file src="bin\net452\Nexmo.Api.dll" target="lib\net452\Nexmo.Api.dll" />
-    <file src="bin\net46\Nexmo.Api.dll" target="lib\net46\Nexmo.Api.dll" />
-    <file src="bin\net461\Nexmo.Api.dll" target="lib\net461\Nexmo.Api.dll" />
-  </files>
 </package>
